@@ -12,7 +12,7 @@ Verdrahtung Elektronik Helm:
 
 
 Platine:
-![Image](https://github.com/user-attachments/assets/bf9a5501-581d-45e9-a05d-28f196433f80)
+![Image](https://github.com/user-attachments/assets/69789333-2762-443e-91ff-e4998a378bce)
 Die JST-Stecker, welche mit dem Arduino Uno verbunden sind, sind nicht auf der Platine verbaut, da diese Verbindungen die Stift- und Buchsenleisten des Arduino Shields darstellen.
 
 
