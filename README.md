@@ -8,7 +8,7 @@ In sketch_intelligenter_fahrradhelm.ino ist der Arduino Sketch inklusive Erklär
 Fritzing-Plan für Verdrahtung und Schaltpläne:
 
 Verdrahtung Elektronik Helm:
-![Image](https://github.com/user-attachments/assets/d5dca4a8-57b6-4247-88cb-7717ff6ae346)
+![Image](https://github.com/user-attachments/assets/908f8304-d8e7-4907-a6b3-e348f382175a)
 
 
 Platine:
