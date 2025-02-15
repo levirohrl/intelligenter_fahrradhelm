@@ -17,4 +17,4 @@ Die JST-Stecker, welche mit dem Arduino Uno verbunden sind, sind nicht auf der P
 
 
 Tiefpassfilter an Mikrofon (Dämpfung der Ausgangsspannung des Arduinos):
-![Image](https://github.com/user-attachments/assets/6a078b31-a2b7-433f-bb17-2648ba91f84b)
+![Image](https://github.com/user-attachments/assets/5f81e800-41e5-4111-9c26-dfa7fff96d3d)
